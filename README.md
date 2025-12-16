@@ -10,4 +10,4 @@ Methodology:
 *All software components are designed and configured using Artop.
 *The complete system is simulated in MATLAB Simulink to observe real-time RPM changes.
 
-Conclusion : This project successfully measures and displays engine speed using the AUTOSAR architecture. It clearly shows how different automotive software components communicate with each other in a structured way. The simulation helps understand real-time engine behavior without hardware. This project improves understanding of AUTOSAR-based ECU design and is useful for automotive embedded system development.
+Conclusion : The project was successfully implemented using Artop for AUTOSAR configuration and MATLAB Simulink for simulation. It clearly demonstrates how engine speed data is processed and shared between software components in an AUTOSAR-based system. This project helps in understanding real automotive ECU architecture and software communication
